@@ -1,0 +1,4 @@
+Registrar de header se registra unicamente como cliente
+credenciales de admin ingresadas mediante script
+user: admin@admin.com
+pass: admin
